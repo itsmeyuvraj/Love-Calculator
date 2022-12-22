@@ -8,4 +8,4 @@ app.post('/',function (request, response) {
 }) // if the server gets post request on the root folder from the client then send him the result
 
 
-app.listen(8000, () => console.log("Server is running on port 800")); 
+app.listen(8000, () => console.log("Server is running on port 8000")); 
